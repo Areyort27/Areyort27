@@ -33,28 +33,12 @@ I'm a software developer with a passion for creating innovative solutions. With 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Areyort27&theme=radical" alt="GitHub Streak">
-</p>
-
----
-
-## 🌟 Projects
-
-- **Project 1:** [Description and link]
-- **Project 2:** [Description and link]
-- **Project 3:** [Description and link]
-
----
-
 ## 📫 Contact Me
 
 If you have any questions or would like to collaborate, feel free to reach out:
 
-- [LinkedIn](https://www.linkedin.com/in/antonio)
-- [Email](mailto:antonio@example.com)
+- [LinkedIn]([https://www.linkedin.com/in/antonio](https://www.linkedin.com/in/antonio-reyes-ortega-35a2ab2b0/))
+- [Email](mailto:areyort827@g.educaand.es)
 
 ---
 
